@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Kim-Milyoner-Olmak-Ister/1.0.0": {
+        "runtime": {
+          "Kim-Milyoner-Olmak-Ister.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kim-Milyoner-Olmak-Ister/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

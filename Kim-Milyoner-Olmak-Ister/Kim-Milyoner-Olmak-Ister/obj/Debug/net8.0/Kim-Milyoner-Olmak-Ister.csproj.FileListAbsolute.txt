@@ -1,0 +1,14 @@
+C:\Users\Orkun\source\repos\Kim-Milyoner-Olmak-Ister\Kim-Milyoner-Olmak-Ister\bin\Debug\net8.0\Kim-Milyoner-Olmak-Ister.exe
+C:\Users\Orkun\source\repos\Kim-Milyoner-Olmak-Ister\Kim-Milyoner-Olmak-Ister\bin\Debug\net8.0\Kim-Milyoner-Olmak-Ister.deps.json
+C:\Users\Orkun\source\repos\Kim-Milyoner-Olmak-Ister\Kim-Milyoner-Olmak-Ister\bin\Debug\net8.0\Kim-Milyoner-Olmak-Ister.runtimeconfig.json
+C:\Users\Orkun\source\repos\Kim-Milyoner-Olmak-Ister\Kim-Milyoner-Olmak-Ister\bin\Debug\net8.0\Kim-Milyoner-Olmak-Ister.dll
+C:\Users\Orkun\source\repos\Kim-Milyoner-Olmak-Ister\Kim-Milyoner-Olmak-Ister\bin\Debug\net8.0\Kim-Milyoner-Olmak-Ister.pdb
+C:\Users\Orkun\source\repos\Kim-Milyoner-Olmak-Ister\Kim-Milyoner-Olmak-Ister\obj\Debug\net8.0\Kim-Milyoner-Olmak-Ister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkun\source\repos\Kim-Milyoner-Olmak-Ister\Kim-Milyoner-Olmak-Ister\obj\Debug\net8.0\Kim-Milyoner-Olmak-Ister.AssemblyInfoInputs.cache
+C:\Users\Orkun\source\repos\Kim-Milyoner-Olmak-Ister\Kim-Milyoner-Olmak-Ister\obj\Debug\net8.0\Kim-Milyoner-Olmak-Ister.AssemblyInfo.cs
+C:\Users\Orkun\source\repos\Kim-Milyoner-Olmak-Ister\Kim-Milyoner-Olmak-Ister\obj\Debug\net8.0\Kim-Milyoner-Olmak-Ister.csproj.CoreCompileInputs.cache
+C:\Users\Orkun\source\repos\Kim-Milyoner-Olmak-Ister\Kim-Milyoner-Olmak-Ister\obj\Debug\net8.0\Kim-Milyoner-Olmak-Ister.dll
+C:\Users\Orkun\source\repos\Kim-Milyoner-Olmak-Ister\Kim-Milyoner-Olmak-Ister\obj\Debug\net8.0\refint\Kim-Milyoner-Olmak-Ister.dll
+C:\Users\Orkun\source\repos\Kim-Milyoner-Olmak-Ister\Kim-Milyoner-Olmak-Ister\obj\Debug\net8.0\Kim-Milyoner-Olmak-Ister.pdb
+C:\Users\Orkun\source\repos\Kim-Milyoner-Olmak-Ister\Kim-Milyoner-Olmak-Ister\obj\Debug\net8.0\Kim-Milyoner-Olmak-Ister.genruntimeconfig.cache
+C:\Users\Orkun\source\repos\Kim-Milyoner-Olmak-Ister\Kim-Milyoner-Olmak-Ister\obj\Debug\net8.0\ref\Kim-Milyoner-Olmak-Ister.dll
