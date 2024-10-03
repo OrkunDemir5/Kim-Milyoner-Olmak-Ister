@@ -7,14 +7,14 @@ Console.WriteLine("a) Akyuvar b) Vişne");
 
 string cevap = Console.ReadLine().ToLower();
 
-if (cevap == "a")
+if (cevap == "b")
 {
     Console.WriteLine("Doğru Cevapladınız!!");
     dogruCevap++;
 }
 else
 {
-    Console.WriteLine("Maalesef yanlış :( cevap: a) Akyuvar");
+    Console.WriteLine("Maalesef yanlış :( cevap: b) Vişne");
 }
 Console.WriteLine("2- Türkiye'nin başkenti neresidir");
 Console.WriteLine("a) Amasya b) Ankara");
